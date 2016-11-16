@@ -1,0 +1,18 @@
+// $font-stack:    Helvetica, sans-serif;
+// $primary-color: #333;
+
+$grey: rgb(155,155,155);
+$gold: rgb(212,152,86);
+$red: rgb(223,45,66);
+$black: rgb(24,24,24);
+$blue: rgb(65,162,161);
+
+@font-face {
+    font-family:'futura1';
+    src: url("futura/FuturaPTDemi.otf");
+}
+
+@font-face {
+    font-family:'futura2';
+    src: url("futura/FuturaPTBook.otf");
+}
